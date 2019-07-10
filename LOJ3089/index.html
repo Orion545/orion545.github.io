@@ -114,13 +114,14 @@
 
 
   <meta name="description" content="Problem Statementlink to loj.ac Main IdeasThe Answer looks like a product of different items under a sqrt, therefore a basic tecnique is to use ln. After this, calculation of product is changed to cal">
+<meta name="keywords" content="AC Automaton,DP">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Solution of LOJ3089">
 <meta property="og:url" content="http://orion545.github.io/LOJ3089/index.html">
 <meta property="og:site_name" content="Orion545&#39;s Blog">
 <meta property="og:description" content="Problem Statementlink to loj.ac Main IdeasThe Answer looks like a product of different items under a sqrt, therefore a basic tecnique is to use ln. After this, calculation of product is changed to cal">
 <meta property="og:locale" content="default">
-<meta property="og:updated_time" content="2019-07-10T05:26:41.530Z">
+<meta property="og:updated_time" content="2019-07-10T13:59:35.349Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Solution of LOJ3089">
 <meta name="twitter:description" content="Problem Statementlink to loj.ac Main IdeasThe Answer looks like a product of different items under a sqrt, therefore a basic tecnique is to use ln. After this, calculation of product is changed to cal">
@@ -239,8 +240,6 @@
     
 
     
-      
-    
 
     <a href="/" rel="section"><i class="menu-item-icon fa fa-fw fa-home"></i> <br>Home</a>
 
@@ -256,8 +255,6 @@
       
     
 
-    
-      
     
 
     <a href="/about/" rel="section"><i class="menu-item-icon fa fa-fw fa-user"></i> <br>About</a>
@@ -275,10 +272,8 @@
     
 
     
-      
-    
 
-    <a href="/tags/" rel="section"><i class="menu-item-icon fa fa-fw fa-tags"></i> <br>Tags<span class="badge">0</span></a>
+    <a href="/tags/" rel="section"><i class="menu-item-icon fa fa-fw fa-tags"></i> <br>Tags</a>
 
   </li>
         
@@ -293,10 +288,8 @@
     
 
     
-      
-    
 
-    <a href="/categories/" rel="section"><i class="menu-item-icon fa fa-fw fa-th"></i> <br>Categories<span class="badge">0</span></a>
+    <a href="/categories/" rel="section"><i class="menu-item-icon fa fa-fw fa-th"></i> <br>Categories</a>
 
   </li>
         
@@ -311,10 +304,8 @@
     
 
     
-      
-    
 
-    <a href="/archives/" rel="section"><i class="menu-item-icon fa fa-fw fa-archive"></i> <br>Archives<span class="badge">2</span></a>
+    <a href="/archives/" rel="section"><i class="menu-item-icon fa fa-fw fa-archive"></i> <br>Archives</a>
 
   </li>
         
@@ -328,8 +319,6 @@
       
     
 
-    
-      
     
 
     <a href="/schedule/" rel="section"><i class="menu-item-icon fa fa-fw fa-calendar"></i> <br>Schedule</a>
@@ -434,7 +423,7 @@
                 
               
 
-              <time title="Created: 2019-07-09 21:54:41 / Modified: 22:26:41" itemprop="dateCreated datePublished" datetime="2019-07-09T21:54:41-07:00">2019-07-09</time>
+              <time title="Created: 2019-07-09 21:54:41" itemprop="dateCreated datePublished" datetime="2019-07-09T21:54:41-07:00">2019-07-09</time>
             </span>
           
 
@@ -442,8 +431,33 @@
             
 
             
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">Edited on</span>
+                
+                <time title="Modified: 2019-07-10 06:59:35" itemprop="dateModified" datetime="2019-07-10T06:59:35-07:00">2019-07-10</time>
+              </span>
+            
           
 
+          
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">In</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/OI-Solution/" itemprop="url" rel="index"><span itemprop="name">OI Solution</span></a></span>
+
+                
+                
+              
+            </span>
           
 
           
@@ -481,6 +495,7 @@
 <p>After this, calculation of product is changed to calculation of sum, which looks like:</p>
 <script type="math/tex; mode=display">\sqrt[n]{\prod_i a_i}=\frac{1}{n}\sum_i\log_ba_i</script><p>Now the problem is to seek the maximum average value of gem sequences that match the model string.</p>
 <p>When a problem of strings contains ONE model and MANY patterns, AC Automaton should come to one’s mind at once!</p>
+<a id="more"></a>
 <p>We build the AC Automaton for the model string, and do dynamic programming on it, thus the problem should be solved.</p>
 <p>MIND that each node on the AC Automaton should inherit all the information of its ancestors on the fail-pointer tree.</p>
 <p>When a problem that asks for minimize/maximize the average for a certain set of values, Linear Programming should come to one’s mind at once!</p>
@@ -514,6 +529,17 @@
 
     <footer class="post-footer">
       
+        
+          
+        
+        <div class="post-tags">
+          
+            <a href="/tags/AC-Automaton/" rel="tag"># AC Automaton</a>
+          
+            <a href="/tags/DP/" rel="tag"># DP</a>
+          
+        </div>
+      
 
       
       
@@ -523,15 +549,15 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/hello-world/" rel="next" title="Hello World">
-                <i class="fa fa-chevron-left"></i> Hello World
-              </a>
-            
           </div>
 
           <span class="post-nav-divider"></span>
 
           <div class="post-nav-prev post-nav-item">
+            
+              <a href="/hello-world/" rel="prev" title="Hello World">
+                Hello World <i class="fa fa-chevron-right"></i>
+              </a>
             
           </div>
         </div>
@@ -609,7 +635,45 @@
               
 
               
+                
+                
+                <div class="site-state-item site-state-categories">
+                  
+                    
+                      <a href="/categories/">
+                    
+                  
+                    
+                    
+                      
+                    
+                      
+                    
+                    <span class="site-state-item-count">2</span>
+                    <span class="site-state-item-name">categories</span>
+                  </a>
+                </div>
+              
 
+              
+                
+                
+                <div class="site-state-item site-state-tags">
+                  
+                    
+                      <a href="/tags/">
+                    
+                  
+                    
+                    
+                      
+                    
+                      
+                    
+                    <span class="site-state-item-count">2</span>
+                    <span class="site-state-item-name">tags</span>
+                  </a>
+                </div>
               
             </nav>
           
