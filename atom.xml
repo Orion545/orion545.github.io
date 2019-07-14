@@ -37,10 +37,10 @@
     
     </summary>
     
-      <category term="English" scheme="http://orion545.github.io/categories/English/"/>
+      <category term="English" scheme="http://orion545.github.io/categories/english/"/>
     
     
-      <category term="TOFEL" scheme="http://orion545.github.io/tags/TOFEL/"/>
+      <category term="TOFEL" scheme="http://orion545.github.io/tags/tofel/"/>
     
   </entry>
   
@@ -63,10 +63,10 @@
     
     </summary>
     
-      <category term="English" scheme="http://orion545.github.io/categories/English/"/>
+      <category term="English" scheme="http://orion545.github.io/categories/english/"/>
     
     
-      <category term="TOFEL" scheme="http://orion545.github.io/tags/TOFEL/"/>
+      <category term="TOFEL" scheme="http://orion545.github.io/tags/tofel/"/>
     
   </entry>
   
@@ -87,10 +87,10 @@
     
     </summary>
     
-      <category term="English" scheme="http://orion545.github.io/categories/English/"/>
+      <category term="English" scheme="http://orion545.github.io/categories/english/"/>
     
     
-      <category term="TOFEL" scheme="http://orion545.github.io/tags/TOFEL/"/>
+      <category term="TOFEL" scheme="http://orion545.github.io/tags/tofel/"/>
     
   </entry>
   
@@ -114,10 +114,10 @@
     
     </summary>
     
-      <category term="English" scheme="http://orion545.github.io/categories/English/"/>
+      <category term="English" scheme="http://orion545.github.io/categories/english/"/>
     
     
-      <category term="TOFEL" scheme="http://orion545.github.io/tags/TOFEL/"/>
+      <category term="TOFEL" scheme="http://orion545.github.io/tags/tofel/"/>
     
   </entry>
   
@@ -162,10 +162,10 @@
     
     </summary>
     
-      <category term="English" scheme="http://orion545.github.io/categories/English/"/>
+      <category term="English" scheme="http://orion545.github.io/categories/english/"/>
     
     
-      <category term="TOFEL" scheme="http://orion545.github.io/tags/TOFEL/"/>
+      <category term="TOFEL" scheme="http://orion545.github.io/tags/tofel/"/>
     
   </entry>
   
@@ -188,12 +188,12 @@
     
     </summary>
     
-      <category term="OI Solution" scheme="http://orion545.github.io/categories/OI-Solution/"/>
+      <category term="OI Solution" scheme="http://orion545.github.io/categories/oi-solution/"/>
     
     
-      <category term="AC Automaton" scheme="http://orion545.github.io/tags/AC-Automaton/"/>
+      <category term="AC Automaton" scheme="http://orion545.github.io/tags/ac-automaton/"/>
     
-      <category term="DP" scheme="http://orion545.github.io/tags/DP/"/>
+      <category term="DP" scheme="http://orion545.github.io/tags/dp/"/>
     
   </entry>
   
