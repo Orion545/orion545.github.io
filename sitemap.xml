@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://orion545.github.io/loj3089/</loc>
+    
+    <lastmod>2019-07-15T14:55:12.403Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://orion545.github.io/tofel-5-26/</loc>
     
     <lastmod>2019-07-13T08:24:13.448Z</lastmod>
@@ -47,13 +54,6 @@
     <loc>http://orion545.github.io/hello-world/</loc>
     
     <lastmod>2019-07-13T07:50:56.901Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://orion545.github.io/loj3089/</loc>
-    
-    <lastmod>2019-07-10T13:59:35.349Z</lastmod>
     
   </url>
   
