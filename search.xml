@@ -12,14 +12,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new postCopy Code1$ hexo new "My New Post" More info: Writing Run serverCopy Code1$ hexo server More info: Server Generate static filesCopy Code1$ hexo generate More info: Generating Deploy to remote sitesCopy Code1$ hexo deploy More info: Deployment]]></content>
-      <categories>
-        <category>test</category>
-      </categories>
-  </entry>
-  <entry>
     <title><![CDATA[临战]]></title>
     <url>%2Flast-war%2F</url>
     <content type="text"><![CDATA[刚刚洗完澡后，在镜子上写下“CSP加油” 回过神来，才发现下面的签名仍然是Dedicatus545 很像电影里的场景——我的过去隔着雾蒙蒙的镜子和我对视，一双眼睛里充满了对未来的希望，而另一双却不敢直视他自己的过去 呵，原来我也有说出AFO的这一天啊，根本没想到这个现实，会来的这么快 AFO？当然是不想AFO的 那怎么办呢？ 只能把这份恐惧转化为前进、逃生的动力了啊 回到晒职，学学文化课，每天至少写一道OI 这些是基本的，但是这还不够 我更需要的，是不能为了别的事情而放弃OI的最高优先度 在这个环境下，最不能的就是松懈下来，因为一旦松懈了，就再也回不来了 做题之前先打暴力，看题解之前多问问自己是不是真的想不出来了，感觉自己效率变低的时候不要陷入无谓的思考，打起精神来继续做题才是正道 的确，有很多娱乐活动是可以进行的，在晒职你其实可以只学学文化课，过的很轻松 但是这真的是我想过的生活吗？ 肯定不是！ 我所向往的OI之路，已经越发狭窄了，希望的光芒也黯淡到几乎没法看见 但是那束光芒仍然存在着 那么我就仍然有前进的理由 ——即使驱使我前进的，是恐惧害怕甚至懒惰 ——我仍然要带着这满身的伤痕，走下去 reference: My Cnblogs 去年的我尚能呐喊出这些文字，可我现在又能做什么呢？OIer不会死亡，他们只是停留在历史的礁石上，在记忆的镜面边缘徘徊，看着镜子一块块碎裂—— 或许这就是和人分手的感觉？自己记忆中关于TA的一点一滴逐渐逝去：我再也想不起来NTT里快速幂的轮换，我再也想不起来LCT里面pushdown的位置，我再也想不起来左偏树merge的交换起舞……那会不会有一天，我也忘记addedge在指尖留下的肌肉记忆，忘记线性筛mod后面的==0，甚至忘记spfa的每一种优化，排序的每一种写法，9种背包和我心爱的线段树，甚至是read()和getchar? 我写到这里已经止不住我的眼泪了，但是我还要写，在我还能记起来他们的时候，继续写，写到我不能写为止，一直写下去 没错，我现在心中充满了恐惧，但是我一定不能停下来 ——因为，他们，他们是我最珍视的过去啊！ 我不想——只要我还活着，就永远不想忘记他们！ 或许这就是我真正喜欢的东西吧，就好像因为不合适一定要分开的两人一样。不过现在她肯定希望我好好睡觉，毕竟明天还有， 最后一次约会，呢]]></content>
@@ -29,5 +21,13 @@
       <tags>
         <tag>OI memories</tag>
       </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new postCopy Code1$ hexo new "My New Post" More info: Writing Run serverCopy Code1$ hexo server More info: Server Generate static filesCopy Code1$ hexo generate More info: Generating Deploy to remote sitesCopy Code1$ hexo deploy More info: Deployment]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
   </entry>
 </search>
