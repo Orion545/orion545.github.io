@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://orion545.github.io/about/index.html</loc>
+    
+    <lastmod>2020-03-29T16:57:05.043Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://orion545.github.io/on-committee-1/</loc>
     
     <lastmod>2020-03-29T16:48:00.578Z</lastmod>
@@ -30,13 +37,6 @@
   </url>
   
   <url>
-    <loc>http://orion545.github.io/about/index.html</loc>
-    
-    <lastmod>2019-12-01T14:37:10.637Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://orion545.github.io/hexo_backup_former/tofel-lesson-section-1.html</loc>
     
     <lastmod>2019-07-27T02:41:15.082Z</lastmod>
@@ -51,14 +51,14 @@
   </url>
   
   <url>
-    <loc>http://orion545.github.io/hexo_backup_former/loj3089.html</loc>
+    <loc>http://orion545.github.io/loj3089/</loc>
     
     <lastmod>2019-07-15T14:55:12.403Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://orion545.github.io/loj3089/</loc>
+    <loc>http://orion545.github.io/hexo_backup_former/loj3089.html</loc>
     
     <lastmod>2019-07-15T14:55:12.403Z</lastmod>
     
@@ -107,14 +107,14 @@
   </url>
   
   <url>
-    <loc>http://orion545.github.io/hexo_backup_former/tofel-6-22.html</loc>
+    <loc>http://orion545.github.io/tofel-6-22/</loc>
     
     <lastmod>2019-07-13T07:59:24.647Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://orion545.github.io/tofel-6-22/</loc>
+    <loc>http://orion545.github.io/hexo_backup_former/tofel-6-22.html</loc>
     
     <lastmod>2019-07-13T07:59:24.647Z</lastmod>
     
